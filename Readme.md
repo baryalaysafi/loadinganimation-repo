@@ -7,4 +7,4 @@ Implementing transitions to smoothly animate changes in properties
 Creating hover effects to engage users and enhance interactivity
 Incorporating animation libraries to streamline your development process
 Tips and tricks for optimizing performance and accessibility
-Whether you're a seasoned web developer looking to spice up your designs or a beginner eager to dive into the world of animation, this video has something for everyone.
+Whether you're a seasoned web developer looking to spice up your designs or a beginner eager to dive into the world of animation, this video has something for everyone!
